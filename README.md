@@ -6,7 +6,7 @@ We are very cheerful that you have chosen to join us. The objective of this test
 
 All the code must be made with Python 3.
 
-You can't fork this project. You don't want to share your work with other candidates ;) Just send us the link to your github when you are done. 
+Please, do not fork this project. You don't want to share your work with other candidates ;) Just send us the link to your github when you are done. 
 
 ## I. Watson's Wine scraping
 Go to the Watson's Wine shop (https://www.watsonswine.com/) and download all the **champagne** offers (use the search input on the top left corner). For each offer, we need these fields:
