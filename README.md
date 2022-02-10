@@ -16,6 +16,7 @@ Go to the Watson's Wine shop (https://www.watsonswine.com/) and download all the
 * URL of the picture
 * URL of the product page
 * information about the stock or the lack of stock
+
 Store the result in a CSV file.
 
 ## II. Instacart scraping
@@ -27,4 +28,6 @@ This exercise is much more difficult than Watson's Wine. Don't worry if you can'
 Use the Watson's Wine data and extract these information from each product :
 * Height and width of the picture (in pixels).
 * Vintage of the champagne (year of production). If it's not specified, just leave the field empty.
-* The type of product: is it a glass or an actual bottle of champagne ? Multiple solutions are welcome. If you can't manage to code them, pseudo-code solutions are accepted.
+* The type of product: is it a glass or an actual bottle of champagne ?
+
+Multiple solutions are welcome. If you can't manage to code them, pseudo-code solutions are accepted.
